@@ -267,6 +267,26 @@ header {
 }
 
 /* =========================
+   COLLABORATOR
+========================= */
+
+.collaborator-section {
+    text-align: center;
+    background: white;
+}
+
+.collaborator-content {
+    max-width: 800px;
+    margin: auto;
+    color: #64748b;
+    font-size: 18px;
+}
+
+.collaborator-content p + p {
+    margin-top: 15px;
+}
+
+/* =========================
    CONTACT
 ========================= */
 
